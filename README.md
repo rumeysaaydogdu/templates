@@ -19,6 +19,12 @@
 # blog
 ![blog](https://user-images.githubusercontent.com/71151015/139539332-983c471b-6f8d-48f8-91be-6cac8e87c1ee.PNG)
 
+# agentLogin
+![s1](https://user-images.githubusercontent.com/71151015/146999448-2330c5c7-1420-4f39-9eb7-8137f4e28eff.PNG)
+
+# estateAgent
+![s2](https://user-images.githubusercontent.com/71151015/146999459-96ae5279-fb0a-4810-9a26-5c853b9ee041.PNG)
+
 # mvcTem
 ## AdminLTE3
 ![mvcTem -AdminLTE3](https://user-images.githubusercontent.com/71151015/139539355-b04acd17-07fc-472f-b4f8-a1245e2733ba.PNG)
